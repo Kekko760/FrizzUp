@@ -1,0 +1,64 @@
+  .hero{
+    background-color: #e0f7fa;
+    text-align: center;
+  }
+  .perchè{
+    background-color: #f1f8e9;
+  }
+  .ingredienti{
+    background-color: #fffde7;
+  }
+  .video{
+    background-color: #e8eaf6;
+  }
+  .testimonianze{
+    background-color: #fce4ec;
+  }
+  .cta{
+    background-color: #ffecb3;
+  }
+  section{
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    border-radius: 12px;
+    padding: 20px;
+  }
+  body {
+  font-family: 'Poppins', sans-serif;
+  color: #333;
+  line-height: 1.6;
+}
+a, button {
+  transition: all 0.3s ease;
+}
+a:hover, button:hover {
+  opacity: 0.8;
+}
+img {
+  border-radius: 10px;
+  max-width: 100%;
+  height: auto;
+}
+.cta {
+  background-color: #ffecb3;
+  text-align: center;
+  padding: 40px 20px;
+}
+.cta h2 {
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+.cta button {
+  background-color: #ff9800;
+  color: white;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+}
+section {
+  padding: 60px 20px;
+}
+
+
